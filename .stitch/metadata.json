@@ -1,0 +1,31 @@
+{
+  "name": "projects/7107419343436601676",
+  "projectId": "7107419343436601676",
+  "title": "Shree Advertising & Marketing",
+  "visibility": "PRIVATE",
+  "deviceType": "DESKTOP",
+  "designSystem": "assets/9536ca1a905e4538b4110807a3841d54",
+  "screens": {
+    "index": {
+      "id": "e6320247088a465693bcc952302ce063",
+      "sourceScreen": "projects/7107419343436601676/screens/e6320247088a465693bcc952302ce063",
+      "width": 2560,
+      "height": 6924,
+      "title": "Shree Advertising & Marketing Homepage"
+    },
+    "services": {
+      "id": "43ee4c2520f244e185fe3cc3938bf8bc",
+      "sourceScreen": "projects/7107419343436601676/screens/43ee4c2520f244e185fe3cc3938bf8bc",
+      "width": 2560,
+      "height": 7458,
+      "title": "Shree Services Catalog"
+    },
+    "contact": {
+      "id": "14ec0d4704bb412a9c4995c74aa86018",
+      "sourceScreen": "projects/7107419343436601676/screens/14ec0d4704bb412a9c4995c74aa86018",
+      "width": 2560,
+      "height": 3290,
+      "title": "Shree Contact & Quote"
+    }
+  }
+}
